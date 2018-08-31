@@ -1,0 +1,11 @@
+{
+  "name": "product_page",
+  "version": "1.0.0",
+  "description": "a simple product page",
+  "main": "index.js",
+  "author": "Ahmad Irfan Mohammad Shukri",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
